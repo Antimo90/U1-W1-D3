@@ -1,0 +1,60 @@
+main,footer{
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#logo_symply{
+    text-align: center;
+}
+
+#logo_symply img{
+    width: 200px;
+}
+
+.line{
+    border-top: 1px solid rgb(245, 181, 53);
+    margin: 0;
+}
+
+.header{
+    background-color: rgb(255 249 237);
+    background-image: linear-gradient(from top rgb(255 249 237), transparent);
+    padding: 20px;
+    margin: 0;
+    text-align: center;
+
+}
+.title{
+    text-align: center;
+}
+
+#focaccia img{
+    width: 700px;
+    border-radius: 10px;
+}
+
+.author{
+    text-align: center;
+    color: gray;
+    
+}
+
+.complete_recipe{
+    border-left-width: 2px;  
+    border-left-style: solid; 
+    border-left-color: rgb(255, 226, 146); 
+    padding-left: 10px;
+    color: red;
+}
+
+.mid_line{
+    border-top: 1px solid rgb(175, 209, 255)
+}
+
+li{
+    margin-top: 10px;
+}
+
+.bold{
+    font-weight: bold;
+}
